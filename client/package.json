@@ -1,0 +1,38 @@
+{
+  "proxy": "http://localhost:8080/api/v1",
+  "name": "client",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.2.6",
+    "antd": "^5.12.2",
+    "axios": "^1.6.2",
+    "bootstrap": "^5.3.2",
+    "moment": "^2.29.4",
+    "nanoid": "^5.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.0.4",
+    "react-router-dom": "^6.20.1",
+    "redux": "^5.0.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "@vitejs/plugin-react": "^4.2.0",
+    "eslint": "^8.53.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.4",
+    "vite": "^5.0.0",
+    "vite-plugin-compression": "^0.5.1"
+  }
+}

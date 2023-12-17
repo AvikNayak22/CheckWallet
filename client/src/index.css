@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Archivo", sans-serif;
+}
+
+.content {
+  height: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.navbar {
+  background-color: #2e3a4f !important;
+}
+
+.register-page,
+.login-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #eceff6;
+  height: 100vh;
+}
+
+.register-page Form {
+  background-color: #ffffff;
+  padding: 30px 20px;
+  width: 400px;
+  height: 450px;
+  border-radius: 15px;
+  box-shadow: 3px 5px 6px rgba(0, 0, 0, 0.2);
+}
+
+.login-page Form {
+  background-color: #ffffff;
+  padding: 20px;
+  width: 350px;
+  height: 350px;
+  border-radius: 15px;
+  box-shadow: 3px 5px 6px rgba(0, 0, 0, 0.2);
+}
+
+.register-page Form Input,
+.login-page Form Input {
+  background-color: #fafafa;
+}
+
+/* transaction page */
+.filters {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 20px;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+  border-bottom: 1px solid rgb(211, 211, 211);
+}
+
+/* antd icons */
+
+.switch-icons {
+  border: 1px solid rgb(196, 194, 194);
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.anticon svg {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.active-icon {
+  color: black;
+}
+
+.inactive-icon {
+  color: gray;
+}
