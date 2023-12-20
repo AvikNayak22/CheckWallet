@@ -1,6 +1,6 @@
 # CheckWallet
 
-CheckWallet is a web application that allows users to manage their transactions, track expenses, and analyze financial data.
+CheckWallet is a personal finance management application built with React.js and Node.js. Enables users to securely track, categorize, and analyze financial transactions for effective money management.
 
 ![checkwallet](https://github.com/AvikNayak22/CheckWallet/assets/110925067/77cfd821-0fe8-4266-82bb-023621edd5f5)
 
