@@ -1,6 +1,6 @@
 # CheckWallet
 
-CheckWallet simplifies finance management with easy transaction recording, categorization, and straightforward analytics. It's designed for effortless income and expense tracking.
+CheckWallet is a web app for tracking your income and expenses. It allows you to record and categorize your financial transactions, providing a simple way to monitor and understand your spending habits. Whether you're budgeting or want to monitor your finances, CheckWallet offers an easy and accessible solution for personal finance tracking.
 
 ![mediamodifier_image](https://github.com/AvikNayak22/CheckWallet/assets/110925067/26592534-b0c9-4d65-872c-e03cbf86287f)
 
