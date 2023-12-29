@@ -9,6 +9,7 @@ CheckWallet is a web app for tracking your income and expenses. It allows you to
 ## Table of Contents
 
 - [Features](#features)
+- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -19,6 +20,9 @@ CheckWallet is a web app for tracking your income and expenses. It allows you to
 - Add, edit, and delete transactions
 - View transaction history with filtering options
 - Analytics dashboard for income and expense insights
+
+## Demo
+See the Demo: [Demo Link](https://youtu.be/SIKJAYgpeT4)
 
 ## Technologies Used
 - **Frontend:**
